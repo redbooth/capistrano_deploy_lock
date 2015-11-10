@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ['nathan.f77@gmail.com']
   gem.description   = %q{Lock a server during deploy, to prevent people from deploying at the same time.}
   gem.summary       = %q{Capistrano Deploy Lock}
-  gem.homepage      = 'https://github.com/ndbroadbent/capistrano_deploy_lock'
+  gem.homepage      = 'https://github.com/redbooth/capistrano_deploy_lock'
   gem.license       = 'MIT'
 
   gem.files         = Dir['{lib,bin}/**/*']
