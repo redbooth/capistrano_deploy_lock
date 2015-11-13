@@ -1,3 +1,3 @@
 module CapistranoDeployLock
-  VERSION = '2.0.0.redbooth.1'
+  VERSION = '2.0.0'
 end
